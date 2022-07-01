@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
     const li = <>
-        <li><a>Item 1</a></li>
+
         <li tabindex="0">
             <a href=""> HOME</a>
         </li>
@@ -11,7 +11,7 @@ const Navbar = () => {
         <li><a>BLOGS</a></li>
     </>
     return (
-        <div class="navbar bg-black text-white">
+        <div class="navbar  text-white sticky top-0 bg-[#ff28d0]">
             <div class="navbar-start">
                 <div class="dropdown">
                     <label tabindex="0" class="btn btn-ghost lg:hidden">

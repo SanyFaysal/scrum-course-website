@@ -3,13 +3,11 @@ import Banner from './Banner';
 import Navbar from './Navbar';
 
 const Header = () => {
-
+    /* Rectangle 1 */
     return (
-        <div>
-            <Navbar></Navbar>
+        <div className='lg:h-[92vh]' style={{ backgroundImage: `url("https://i.ibb.co/z2hv6ng/Screenshot-279.png")` }} >
             <Banner></Banner>
-        </div>
+        </div >
     );
-};
-
+}
 export default Header;
