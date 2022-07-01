@@ -21,7 +21,7 @@ const Banner = () => {
                             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Computer_keyboard.png" alt='' />
                         </div>
                     </div>
-                    <div className=' lg:mr-[-170px] mr-[-50px] lg:mt-[30px] mt-[100px] ml-6'>
+                    <div className=' lg:mr-[-170px] mr-[-50px] lg:mt-[90px] mt-[100px] ml-6'>
                         <img src="https://media.istockphoto.com/photos/businessman-at-work-picture-id613523856?k=20&m=613523856&s=612x612&w=0&h=nIZxSvPDe_sZZYEhsRoQyFpilL2APIRY_LoexXUwlsk=" class="lg:w-[550px] lg:h-[550px] w-[250px] h-[250px] rounded-full" alt='' />
                     </div>
                 </div>

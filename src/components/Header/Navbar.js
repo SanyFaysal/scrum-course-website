@@ -11,7 +11,7 @@ const Navbar = () => {
         <li><a>BLOGS</a></li>
     </>
     return (
-        <div class="navbar  text-white sticky top-0 bg-[#ff28d0]">
+        <div class="navbar lg:px-12 px-6  text-white sticky top-0 bg-[#ff28d0]">
             <div class="navbar-start">
                 <div class="dropdown">
                     <label tabindex="0" class="btn btn-ghost lg:hidden">
